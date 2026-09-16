@@ -1,0 +1,6 @@
+{
+  "name": "TrustBank",
+  "description": "Professional banking app with Add Money (bKash, Nagad, Bank), Withdrawals, Wallet, Transactions, Security PIN, KYC, and Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
